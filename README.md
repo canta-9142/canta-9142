@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**canta-9142/canta-9142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an electronics engineering student at KOSEN in Japan.
 
-Here are some ideas to get you started:
+I build things at the boundary between hardware and software—from analog circuits and embedded systems to Linux infrastructure and something on the web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- Designing discrete analog circuits and audio power amplifiers
+- Building embedded and FPGA-based systems
+- Running a NixOS-based homelab with Forgejo and CI/CD
+- Exploring how AI can support hardware design, testing, and debugging
+
+## Interests
+
+- Analog and digital electronics
+- Embedded systems and FPGA
+- Linux, NixOS, and self-hosted infrastructure
+- Software tools for hardware development
+- Physical AI and robotics
+
+## Selected projects
+
+- **Discrete Audio Amplifier** — A class-AB power amplifier designed and evaluated from the transistor level
+- **GitWand Nix** — Reproducible Nix packaging for the GitWand desktop application
+- **Floating Gate** — My personal blog and portfolio, deployed through a self-hosted CI/CD environment
+- **Embedded & FPGA Projects** — Small systems combining custom electronics, control, and signal processing
+
+## Links
+
+* Blog: [floating-gate.com](https://floating-gate.com)
+* Self-hosted Git: [forgejo.floating-gate.com](https://forgejo.floating-gate.com)
+
