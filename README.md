@@ -21,10 +21,8 @@ I build things at the boundary between hardware and software—from analog circu
 
 ## Selected projects
 
-- **Discrete Audio Amplifier** — A class-AB power amplifier designed and evaluated from the transistor level
-- **GitWand Nix** — Reproducible Nix packaging for the GitWand desktop application
+- **Qshare** — A file-sharing tool that does not depends on the internet
 - **Floating Gate** — My personal blog and portfolio, deployed through a self-hosted CI/CD environment
-- **Embedded & FPGA Projects** — Small systems combining custom electronics, control, and signal processing
 
 ## Links
 
