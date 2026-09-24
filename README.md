@@ -6,5 +6,4 @@
 ## Links
 
 * Blog: [floating-gate.com](https://floating-gate.com)
-* Self-hosted Git: [forgejo.floating-gate.com](https://forgejo.floating-gate.com)
 
