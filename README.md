@@ -1,24 +1,3 @@
-## Hi there 👋
-
-I'm an electronics engineering student at KOSEN in Japan.
-
-I build things at the boundary between hardware and software—from analog circuits and embedded systems to Linux infrastructure and something on the web.
-
-## What I'm working on
-
-- Designing discrete analog circuits and audio power amplifiers
-- Building embedded and FPGA-based systems
-- Running a NixOS-based homelab with Forgejo and CI/CD
-- Exploring how AI can support hardware design, testing, and debugging
-
-## Interests
-
-- Analog and digital electronics
-- Embedded systems and FPGA
-- Linux, NixOS, and self-hosted infrastructure
-- Software tools for hardware development
-- Physical AI and robotics
-
 ## Selected projects
 
 - **Qshare** — A file-sharing tool that does not depends on the internet
